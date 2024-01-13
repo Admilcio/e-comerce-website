@@ -2,7 +2,7 @@
     {
         "id": "abrigo-01",
         "titulo": "Coats 01",
-        "imagen": "./img/abrigos/01.jpg",
+        "imagen": "./img/coats/01.jpg",
         "categoria": {
             "nombre": "Coats",
             "id": "abrigos"
@@ -12,7 +12,7 @@
     {
         "id": "abrigo-02",
         "titulo": "Coats 02",
-        "imagen": "./img/abrigos/02.jpg",
+        "imagen": "./img/coats/02.jpg",
         "categoria": {
             "nombre": "Coats",
             "id": "abrigos"
@@ -22,7 +22,7 @@
     {
         "id": "abrigo-03",
         "titulo": "Coats 03",
-        "imagen": "./img/abrigos/03.jpg",
+        "imagen": "./img/coats/03.jpg",
         "categoria": {
             "nombre": "Coats",
             "id": "abrigos"
@@ -32,7 +32,7 @@
     {
         "id": "abrigo-04",
         "titulo": "Coats 04",
-        "imagen": "./img/abrigos/04.jpg",
+        "imagen": "./img/coats/04.jpg",
         "categoria": {
             "nombre": "Coats",
             "id": "abrigos"
@@ -42,7 +42,17 @@
     {
         "id": "abrigo-05",
         "titulo": "Coats 05",
-        "imagen": "./img/abrigos/05.jpg",
+        "imagen": "./img/coats/05.jpg",
+        "categoria": {
+            "nombre": "Coats",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Coats 06",
+        "imagen": "./img/coats/07.avif",
         "categoria": {
             "nombre": "Coats",
             "id": "abrigos"
@@ -52,7 +62,7 @@
     {
         "id": "camiseta-01",
         "titulo": "T-shirt 01",
-        "imagen": "./img/camisetas/01.jpg",
+        "imagen": "./img/t-shirt/01.jpg",
         "categoria": {
             "nombre": "T-shirt",
             "id": "camisetas"
@@ -62,7 +72,7 @@
     {
         "id": "camiseta-02",
         "titulo": "T-shirt 02",
-        "imagen": "./img/camisetas/02.jpg",
+        "imagen": "./img/t-shirt/02.jpg",
         "categoria": {
             "nombre": "T-shirt",
             "id": "camisetas"
@@ -72,7 +82,7 @@
     {
         "id": "camiseta-03",
         "titulo": "T-shirt 03",
-        "imagen": "./img/camisetas/03.jpg",
+        "imagen": "./img/t-shirt/03.jpg",
         "categoria": {
             "nombre": "T-shirt",
             "id": "camisetas"
@@ -82,7 +92,7 @@
     {
         "id": "camiseta-04",
         "titulo": "T-shirt 04",
-        "imagen": "./img/camisetas/04.jpg",
+        "imagen": "./img/t-shirt/04.jpg",
         "categoria": {
             "nombre": "T-shirt",
             "id": "camisetas"
@@ -92,7 +102,7 @@
     {
         "id": "camiseta-05",
         "titulo": "T-shirt 05",
-        "imagen": "./img/camisetas/05.jpg",
+        "imagen": "./img/t-shirt/05.jpg",
         "categoria": {
             "nombre": "T-shirt",
             "id": "camisetas"
@@ -102,7 +112,7 @@
     {
         "id": "camiseta-06",
         "titulo": "T-shirt 06",
-        "imagen": "./img/camisetas/06.jpg",
+        "imagen": "./img/t-shirt/06.jpg",
         "categoria": {
             "nombre": "T-shirt",
             "id": "camisetas"
@@ -112,7 +122,7 @@
     {
         "id": "camiseta-07",
         "titulo": "T-shirt 07",
-        "imagen": "./img/camisetas/07.jpg",
+        "imagen": "./img/t-shirt/07.jpg",
         "categoria": {
             "nombre": "T-shirt",
             "id": "camisetas"
@@ -122,7 +132,7 @@
     {
         "id": "camiseta-08",
         "titulo": "T-shirt 08",
-        "imagen": "./img/camisetas/08.jpg",
+        "imagen": "./img/t-shirt/08.jpg",
         "categoria": {
             "nombre": "T-shirt",
             "id": "camisetas"
@@ -132,7 +142,7 @@
     {
         "id": "pantalon-01",
         "titulo": "Pants 01",
-        "imagen": "./img/pantalones/01.jpg",
+        "imagen": "./img/pants/01.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pantalones"
@@ -142,7 +152,7 @@
     {
         "id": "pantalon-02",
         "titulo": "Pants 02",
-        "imagen": "./img/pantalones/02.jpg",
+        "imagen": "./img/pants/02.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pantalones"
@@ -152,7 +162,7 @@
     {
         "id": "pantalon-03",
         "titulo": "Pants 03",
-        "imagen": "./img/pantalones/03.jpg",
+        "imagen": "./img/pants/03.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pantalones"
@@ -162,7 +172,7 @@
     {
         "id": "pantalon-04",
         "titulo": "Pants 04",
-        "imagen": "./img/pantalones/04.jpg",
+        "imagen": "./img/pants/04.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pantalones"
@@ -172,7 +182,7 @@
     {
         "id": "pantalon-05",
         "titulo": "Pants 05",
-        "imagen": "./img/pantalones/05.jpg",
+        "imagen": "./img/pants/05.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pantalones"
